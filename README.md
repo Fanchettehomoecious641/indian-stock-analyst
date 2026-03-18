@@ -1,28 +1,46 @@
-# Indian Stock Analyst Project
+# Indian Stock Analyst Documentation
 
-## Overview
-This project provides analysis tools for the Indian stock market, including data visualization, algorithmic trading strategies, and performance metrics.
+## Features
+- Analyze Indian stock trends
+- View historical data
+- Make informed investment decisions
+- User-friendly interface
 
-## Skills
-- Expertise in data analysis and statistics.
-- Proficient in Python, R, or other analytical languages.
-- Knowledge of machine learning algorithms.
-
-## Installation
+## Quick Start
 1. Clone the repository:
    ```bash
    git clone https://github.com/jitu2611/indian-stock-analyst.git
    ```
-2. Install required packages:
+2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   cd indian-stock-analyst
+   npm install
    ```
-3. Run the analysis scripts.
+3. Run the application:
    ```bash
-   python main.py
+   npm start
    ```
 
-## Usage
-- Specify the stock symbols you want to analyze.
-- Choose the timeframe for analysis.
-- Run the provided scripts to get insights and visualizations.
+## CSV Format
+- The application supports CSV files with the following columns:
+  - Date
+  - Open
+  - High
+  - Low
+  - Close
+  - Volume
+
+## Verdict Criteria
+- Stocks are evaluated based on:
+  - Performance over the last year
+  - Volatility measures
+  - Market trends
+
+## Contributing Guidelines
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
+
+Thank you for using Indian Stock Analyst!
