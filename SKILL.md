@@ -1,18 +1,25 @@
-# Skills for the Indian Stock Analyst Project
+# Claude Skill Definition
 
-## Required Skills
+## Overview
+The Claude skill is designed to assist users in managing their stock portfolios, providing research capabilities on various stocks, and generating detailed analysis reports. 
 
-1. **Data Analysis** 
-   - Ability to manipulate and analyze large datasets.
+## Parsing Portfolio Files
+To parse portfolio files, ensure that they are in CSV format with columns that include stock ticker symbols, quantities owned, and purchase prices. The following steps outline the parsing process:
+1. Read the CSV file.
+2. Validate the content of each row.
+3. Convert stock symbols into a proper format.
+4. Store the parsed data into a structured format (e.g., dictionaries or objects).
 
-2. **Machine Learning** 
-   - Understanding of ML algorithms and how they can be applied to stock prediction.
+## Researching Stocks
+The skill provides several functions to research stocks, including:
+- Fetching live price data.
+- Analyzing historical performance.
+- Evaluating company fundamentals.
 
-3. **Statistical Analysis** 
-   - Proficiency in statistical methods for interpreting data trends.
+Users can input a stock ticker to retrieve the information required for informed decision-making.
 
-4. **Programming** 
-   - Strong knowledge of Python or R for developing analysis tools.
-
-5. **Data Visualization** 
-   - Skills in creating graphs and visualizations using libraries like Matplotlib, Seaborn, or ggplot2.
+## Generating Analysis Reports
+The skill can generate comprehensive analysis reports based on the user's portfolio and research findings. Users can specify the desired format (e.g., PDF, CSV). The report will include:
+- Current portfolio value.
+- Performance metrics.
+- Recommendations for potential actions based on research and analysis.
